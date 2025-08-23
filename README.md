@@ -1,10 +1,11 @@
 # Deep_Learning
 Welcome to my Learning Playground 
 This repository is a collection of all the code I write while learning new concepts, experimenting with ideas, and improving my programming skills.
-Goal of this repo
 
-Keep track of my progress as I learn 
+### Goal of this repo
 
-Build a habit of consistent coding 
+- Keep track of my progress as I learn 
 
-Share useful snippets and notebooks with others 
+- Build a habit of consistent coding 
+
+- Share useful snippets and notebooks with others 
